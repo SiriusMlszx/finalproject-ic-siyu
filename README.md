@@ -22,13 +22,13 @@ In `Image` folder, there are images used in the readme file.
 
 The entire development process can be implemented in the Code Editor from the GEE platform in Javascript, as shown in the figure below.
 
-<img src="https://github.com/acse-2019/irp-acse-ws4418/blob/master/images/code_editor.png">
+<img src="https://github.com/SiriusMlszx/finalproject-ic-siyu/edit/master/images/code_editor.png">
 
 ### 2. Import data
 
 User can draw their interested study area using the drawing tools and create the training data set.
 
-<img src="https://github.com/acse-2019/irp-acse-ws4418/blob/master/images/studyarea.png">
+<img src="https://github.com/SiriusMlszx/finalproject-ic-siyu/edit/master/images/studyarea.png">
 
 ### 2. Cloud Mask
 
